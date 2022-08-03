@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning Angular  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel3132&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel3132&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel3132&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel3132&show_icons=true&theme=dark&layout=compact)  
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Correa_3132&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
