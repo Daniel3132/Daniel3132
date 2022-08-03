@@ -10,7 +10,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel3132&show_icons=true&theme=dark&layout=compact)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel3132&repo=github-readme-stats&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Correa_3132&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
