@@ -10,6 +10,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel3132&show_icons=true&theme=dark&layout=compact)  
 
+[![wakatime](https://wakatime.com/badge/user/1ffd7a47-c953-4b69-96be-1968006bc8fc.svg)](https://wakatime.com/@1ffd7a47-c953-4b69-96be-1968006bc8fc)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Correa_3132&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
