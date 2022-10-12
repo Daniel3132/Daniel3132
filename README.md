@@ -4,7 +4,7 @@
 ### Hi there 👋, my name is Daniel Correa 
 #### I am Frontend Developer
 
-- 🌱 I’m currently learning Typescript & Angular.  
+- 🌱 I’m currently learning Java & Typescript.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel3132&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
