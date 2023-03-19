@@ -1,5 +1,3 @@
-Sure! Here's an improved version of your GitHub profile README:
-
 <!--
 **Daniel3132/Daniel3132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
