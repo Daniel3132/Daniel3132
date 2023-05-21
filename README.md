@@ -8,7 +8,7 @@
 - 👨‍💻 I enjoy building web applications using React, Redux, and CSS frameworks like Bootstrap.
 - 🎸 Fun fact: I also enjoy playing guitar and video games in my free time.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Correa_3132&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daniel_Correa_3132&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel3132&show_icons=true&theme=dark&layout=compact)
 
