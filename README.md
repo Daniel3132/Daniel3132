@@ -10,8 +10,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/1ffd7a47-c953-4b69-96be-1968006bc8fc.svg)](https://wakatime.com/@1ffd7a47-c953-4b69-96be-1968006bc8fc)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel3132&show_icons=true&theme=dark&layout=compact)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel3132&hide=CSS&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
